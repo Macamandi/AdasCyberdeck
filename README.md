@@ -16,14 +16,18 @@ A tela principal exibe o estado do veículo em tempo real, renderizando os sprit
 ![Tela Inicial](screenshots/telaInicial.png)
 
 ### 2. Painel de Controle Físico (Hardware HIL)
-O console de engenharia automotiva construído sobre uma protoboard e acondicionado em uma carcaça de MDF bruto envernizado, conferindo o visual clássico de um equipamento industrial cyberpunk.
+O console de engenharia automotiva construído sobre uma placa de circuito impressa artesanal e acondicionado em uma carcaça de MDF bruto envernizado, conferindo o visual clássico de um equipamento industrial cyberpunk.
 ![Hardware na Protoboard](screenshots/hardware.jpeg)
 
-### 3. Configuração de Matriz e Identificadores CAN
+### 3. Confecção da placa de circuito impresso
+Utilizei meu software proprietário(Em breve no github) para desenhar as trilhas de nosso hardware.
+![Tela de Configuração](screenshots/circuitoImpresso.png)
+
+### 4. Configuração de Matriz e Identificadores CAN
 Interface dedicada para remapeamento dinâmico de IDs de rede, bytes de início/fim e sincronização dos nós sem necessidade de recompilar o código fonte.
 ![Tela de Configuração](screenshots/telaConfig.png)
 
-### 4. Gerenciamento de Conexão Serial USB
+### 5. Gerenciamento de Conexão Serial USB
 Módulo de varredura automática de portas seriais (`pyserial`) para acoplamento do nó físico (ESP32) à interface gráfica do Cyberdeck.
 ![Conexão Serial](screenshots/telaSerial.png)
 
