@@ -1,0 +1,5 @@
+-As teclas |<| e |>| controlam a escala das imagens na interface.
+           |,|   |.|
+
+-A tecla tab alterna entre as abas de configuração.
+-Esc sai da tela cheia, mudando para uma janelinha de 480x320, a telinha dos pobres(que nem eu) :P

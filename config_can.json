@@ -1,0 +1,11 @@
+{
+    "start_byte": "0x20",
+    "end_byte": "0x1f",
+    "id_drive": "0x50",
+    "id_re": "0x60",
+    "id_bcm": "0x200",
+    "id_vel": "0x100",
+    "id_volante": "0x101",
+    "id_sens_frente": "0x400",
+    "id_sens_tras": "0x401"
+}
