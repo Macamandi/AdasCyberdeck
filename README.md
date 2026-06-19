@@ -16,7 +16,7 @@ A tela principal exibe o estado do veículo em tempo real, renderizando os sprit
 ![Tela Inicial](screenshots/telaInicial.png)
 
 ### 2. Painel de Controle Físico (Hardware HIL)
-O console de engenharia automotiva construído sobre uma placa de circuito impressa artesanal e acondicionado em uma carcaça de MDF bruto envernizado, conferindo o visual clássico de um equipamento industrial cyberpunk.
+O console de engenharia automotiva construído sobre uma placa de circuito impressa artesanal e acondicionado em uma carcaça de MDF envernizado e "decorado", conferindo o visual clássico de um equipamento industrial cyberpunk.
 ![Hardware na Protoboard](screenshots/hardware.jpeg)
 
 ### 3. Confecção da placa de circuito impresso
